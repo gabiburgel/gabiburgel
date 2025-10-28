@@ -5,6 +5,3 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiburgel&layout=compact&langs_count=7&theme=tokyonight"/>
   
  ##
-
- </div>
- <img align="center" alt="Vitor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
